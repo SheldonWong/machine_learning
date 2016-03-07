@@ -4,6 +4,7 @@
 *.jar
 *.war
 *.ear
+*.zip
  
 # ignore Maven generated target folders
 target
@@ -13,3 +14,7 @@ target
 .classpath
 .settings
 .metadata
+.pydevproject
+
+# ignore log
+gc.log
